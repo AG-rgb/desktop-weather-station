@@ -43,3 +43,7 @@ Internal Standoffs — The base includes built‑in M2 standoffs that let the ES
 
 Thermal Separation — Since the ESP32 generates heat, the DHT22 is placed in its own isolated chamber behind the front vents. This prevents warm air from the microcontroller from skewing temperature and humidity readings.
 
+
+
+
+<img width="1080" height="1920" alt="Pink and White Healthy Drinks Facebook Story Ads" src="https://github.com/user-attachments/assets/9c98585c-c02e-4465-b6a3-1748ee3c51cd" />
