@@ -60,3 +60,11 @@ README explains how to use/build it
 4. Open the CodePen dashboard to view your live telemetry stream.
 
 
+Here is the 3D enclosure assembly modeled in Onshape, featuring the passive air intakes and the top chimney exhaust:
+<img width="850" height="586" alt="image" src="https://github.com/user-attachments/assets/ad15b100-d359-47cb-b362-0e557d4dc143" />
+
+Here is the circuit pinout configuration for connecting the DHT22, BMP280, and OLED display to the ESP32:
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a8f32779-7549-4bc2-b986-eff31f2a4010" />
+
+
+
