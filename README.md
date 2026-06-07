@@ -47,3 +47,16 @@ Thermal Separation — Since the ESP32 generates heat, the DHT22 is placed in it
 
 <img width="1410" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/20dbec0b-b0d5-45cb-854d-9de9401c5482" />
 
+
+README explains what the project is
+Project Chimney is an ESP32‑powered environmental monitoring station built to avoid the heat problems that plague typical 3D‑printed enclosures. It continuously reads temperature, humidity, and pressure data, then streams everything to a live web dashboard.
+README explains why it was made
+Most small enclosures trap the heat produced by the microcontroller, which throws off temperature readings by 2–3°C. Project Chimney fixes that by using a passive convection chimney—essentially a built‑in stack effect—to pull fresh ambient air across the sensors. This keeps the readings accurate and reflective of real conditions.
+
+README explains how to use/build it
+1. Clone the repository onto your computer.
+2. Open the firmware in the Arduino IDE, install the ESP32 board package, and upload it to your ESP32 DevKit.
+3. Connect the DHT22, BMP280, and OLED display to the ESP32 following the documented wiring.
+4. Open the CodePen dashboard to view your live telemetry stream.
+
+
