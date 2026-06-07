@@ -45,5 +45,5 @@ Thermal Separation — Since the ESP32 generates heat, the DHT22 is placed in it
 
 
 
+<img width="1410" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/20dbec0b-b0d5-45cb-854d-9de9401c5482" />
 
-<img width="1080" height="1920" alt="Pink and White Healthy Drinks Facebook Story Ads" src="https://github.com/user-attachments/assets/9c98585c-c02e-4465-b6a3-1748ee3c51cd" />
